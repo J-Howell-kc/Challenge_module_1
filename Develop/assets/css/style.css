@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* Sets body background color attribute */
 body {
     background-color: #d9dcd6;
 }
 
+/* sets header attributes */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -36,6 +38,7 @@ body {
     list-style-type: none;
 }
 
+/* Sets unordered list attributes */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -50,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* sets hero image attributes and directs to hero image file */
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +79,7 @@ p {
     margin-left: 20px;
 }
 
+/*  next sections add attriubutes to aside text */ 
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -116,6 +121,7 @@ p {
     text-align: center;
 }
 
+/* next three items set attributes for aside images */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -134,6 +140,7 @@ p {
     max-width: 150px;
 }
 
+/* next three items set attributes for body section text */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,6 +168,7 @@ p {
     color: #ffffff;
 }
 
+/* next six items set image sizes, font sizes and margins for body images */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -188,6 +196,7 @@ p {
     font-size: 36px;
 }
 
+/* sets footer attributes */
 .footer {
     padding: 30px;
     clear: both;
