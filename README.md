@@ -1,5 +1,5 @@
 
-# Challenge_module_1
+# Brandon J Howell's Horiseon Refactor
 Module 1 Challenge
 
 Refactored site for accessibility, semantic clarity, fixed broken link, added comments
